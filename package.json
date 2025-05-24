@@ -1,0 +1,17 @@
+{
+  "name": "telegram-test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
